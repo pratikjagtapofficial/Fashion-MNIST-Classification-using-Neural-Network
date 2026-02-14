@@ -129,10 +129,4 @@ The results confirm that:
 - Scikit-learn
 - Matplotlib
 
----
-
-## 📬 Author
-
-Your Name  
-GitHub: Your Profile Link
 
